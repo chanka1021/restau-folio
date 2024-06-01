@@ -8,7 +8,7 @@ const NavItems = ({ className, navClass, toggleHamburger }) => (
       to="/"
       exact
       activeClassName="active"
-    >SOMBARAs</NavLink>
+    >Restau-Folio</NavLink>
     <NavLink
       to="/"
       exact
